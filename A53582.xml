@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eighteene reasons propounded to the soldiers of the body of the Army, why they ought to continue the several adjutators of their respective regiments, troopes, and companies, for the good of the Army, Parliament and Kingdome.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53582</idno>
+            <idno type="STC">Wing O628A</idno>
+            <idno type="STC">ESTC R214547</idno>
+            <idno type="EEBO-CITATION">99826674</idno>
+            <idno type="PROQUEST">99826674</idno>
+            <idno type="VID">31079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1767:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eighteene reasons propounded to the soldiers of the body of the Army, why they ought to continue the several adjutators of their respective regiments, troopes, and companies, for the good of the Army, Parliament and Kingdome.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: Newgate August 13. 1647. Richard Overton.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31079:1" rendition="simple:additions"/>
+            <head>EIGHTEENE REASONS Propounded to the Soldiers of the Body of the Army, Why they ought to continue the ſeveral Adjutators of their reſpective Regiments, Troopes, and Companies, for the good of he Army, Parliament and King<g ref="char:EOLhyphen"/>dome.</head>
+            <p n="1">1. <seg rend="decorInit">B</seg>Ecauſe, their diſſolution as yet either in part or in whole, is contrary to the ſolemne engagement of the Army (founded upon the Pillars of juſtice, mercy, reaſon &amp; neceſſity) <hi>read aſ<g ref="char:EOLhyphen"/>ſented unto, and ſubſcrib'd by a general Randeſvouz near New-Market:</hi> as apeareth <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<g ref="char:cmbAbbrStroke">̄</g>their own exp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their ſaid Engage<g ref="char:EOLhyphen"/>ment (dated <hi>July</hi> 5. 1647.) which runs thus <hi>we the Officers</hi> &amp; <hi>Soldiers of the ſeveral Regiments, now met at the general Ran<g ref="char:EOLhyphen"/>deſvouz, have ſubſcribed unto the ſaid ſolemne Engagement, and doe hereby declare, agree, and promiſe to, with each other; to, and with the Parliament, and Kingdome; at followeth.</hi>
+            </p>
+            <p>
+               <hi>Firſt, that we ſhal chearfully &amp; readily disband &amp;c. having firſt ſuch SATISFACTION and SEC<g ref="char:V">Ʋ</g>RITY in thoſe things as SHALL BEE AGREED unto by a CO<g ref="char:V">Ʋ</g>NSELL, to conſiſt of thoſe Generall Officers of the Armie (who have concurred with the Armie in the premiſes) with TWO COMMISSION OFFICERS, and TWO SO<g ref="char:V">Ʋ</g>LDIERS to be cho<g ref="char:EOLhyphen"/>ſen for each Regement, who have concurred and ſhall concurre with us in the premiſes, and in this Agreement, and by the Major part of ſuch of them, who ſhall meet in Councell for that purpoſe &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly, that without ſuch ſatisfaction, and ſecurity as aforeſaid, wee ſhall, not willingly disband, nor divide, nor ſuffer our ſelves to bee disbanded, or di<g ref="char:EOLhyphen"/>vided.</hi>
+            </p>
+            <div type="part">
+               <head>Whence Obſerve.</head>
+               <p>That you of the Body of the Army together with this Councell (thus and no other<g ref="char:EOLhyphen"/>wiſe conſtituted) are firmly bound each unto other, ſeverally and conjunctively to main<g ref="char:EOLhyphen"/>tain &amp; defend, &amp; protect each other both in your Individual and contract capacity; to wit, the Body naturall, and the Body repreſentive to be a mutuall and ſafe protection and preſervation each to other as much as in each other lyeth till ſatisfaction and ſecu<g ref="char:EOLhyphen"/>rity, as aforeſaid: ſo that the Army is hereby bound, not to ſuffer itſelfe, or its councel, not the Councell to ſuffer it ſelfe or the Army as much as in each other lyeth to be diſ<g ref="char:EOLhyphen"/>banded or divided without <hi>ſatisfaction and ſecurity firſt in thoſe things as ſhall be agreed unto by the ſaid Councel:</hi> now as yet there is neither ſatisfaction nor ſecurity concerning the manifold <hi>Repreſentations propoſals &amp; deſire</hi> of the ſaid councel in behalf of the army King Parliament and Kingdome.</p>
+               <p>Therefore, by the ſaid <hi>ſolemne Engagement (made ſeverally and joyntly to themſelves,
+<pb n="2" facs="tcp:31079:2"/>to and with the Parliament and Kingdom)</hi> they are bound to themſelves, and have bound themſelves to the Parliaments Kingdome, not to ſuffer any disbandment of the Army diviſion or diſſolution of themſelves or of their councell, either in partor in whole, ou<g ref="char:EOLhyphen"/>ting the time of diſſatisfaction and non-ſecurity to ſuch things for the ſafety of the Ar<g ref="char:EOLhyphen"/>my, Parliament and Kingome as hetherto hath, or ſhall for the future be agreed unto by the ſaid <hi>councell of Officers and Souldiers.</hi>
+               </p>
+               <p>And ſo every Officer, Souldier perſon whatſoever which hitherto hath or for the future ſhall enter himſelf into the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Engagement</hi> and become a Member of the Army, is bound not to diſband himſelfe, diſſert of forſake the Army, or to the utmoſt of his power to ſuffer the Army or its Councell of Officers and Souldiers to be disbanded, diſſerted, divided or deſtroyed, but with his life and his fortunes is bound to preſerve, continue and uphold both Army and Councell inuire and firme even if poſſible to the period of the worke.</p>
+               <p>And he or they of what quality or conditon ſoever, whether Officer or Soldier, that ſhall before the ſaid ſatisfaction &amp; ſecurity endeavour the disbandment of the Army <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> part or in whole, or ſhall endeavour the disbandment, diviſion or diſſolution of this Counſell either in part or in whole, are falſifiers of their owne ſolemne Engagement to themſelves and one with another to the Parliament and Kingdom; and out of their own mothes even from the Equity of their owne Engagement are to bee adjudged (as indeed they are in ſo doing) Enemie to the Armie, Parliament and Kingdome.</p>
+               <p>Now if as ſome object, it be anſwered, that the Engagement extendeth only to the prevention of the disbandment or diviſion of the Army, and not o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the councell till the ſaid <hi>ſatifaction</hi> and <hi>ſecurity</hi> without breach of the ſaith and ſolemne Engagement of the Army. I reply.</p>
+               <p>That if it extend to the body of the Army then much more to the Councell: for the good of the Army, (for matter of ſafety, preſervation and union thereof, as alſo for the peace tranquillity and freedome of Parliament and Kingdome) is preciſly wrapt up, and compriſed in that Councell as in the head of that Body: ſo that if the head of it ſhould be cut off, cleft, or the brams of it pathed out how ſhall the body of the Army re<g ref="char:EOLhyphen"/>taine its perfect life and being?</p>
+               <p>Now the Councell (according the Engagement) is (as before was expreſſed) to conſiſt of thoſe generall Officers of the Army (who have concurred with the Army in the pre<g ref="char:EOLhyphen"/>miſes) with two Commiſſion Officers and two Soldier to be choſen out of every Rege<g ref="char:EOLhyphen"/>ment, who have concurred or ſhall concurre in the premiſes: ſo that the Councell (ac<g ref="char:EOLhyphen"/>cording the Armyes Engagement) is not to conſiſt of officers without two ſoldiers out of every Regement, or of the ſouldiers without the aforeſaid officers; but joyntly the ſaid Officers and Souldiers together make up the ſaid councell, or repreſentive Body of the Army, according to the ſolemne agreement and Engagement of the Army: no o<g ref="char:EOLhyphen"/>ther <hi>Councell</hi> whatſoever though under the name and guiſe of the Army being the coun<g ref="char:EOLhyphen"/>cell <hi>of the Armie</hi> for their preſent expedition (in behalfe of the Army, the Parliament and Kingdome.) it being of a different kinde and nature, of a different Election, Au<g ref="char:EOLhyphen"/>thority Originall and end from that of the councell of warre; and all ſuch not ſo elect<g ref="char:EOLhyphen"/>ed and conſtituted as aforeſaid as ſhall aſſume or preſume upon the <hi>name</hi> or <hi>authority</hi> of that Councell are <hi>invaders</hi> and <hi>uſurpers</hi> and <hi>abuſers</hi> of the <hi>name power</hi> and <hi>authority</hi> of the <hi>Armie;</hi> and at their reſults, actions and tranſactions under that guiſe are not there. ſults, actions and tran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſactions of the Army, but are all as concerning the Army, illegitimate, irregular, and unjuſt, contradictory and abuſive to the Army.</p>
+               <p>And hence it is, that this great Councell of the Army ſo elected and deputed hath
+<pb n="3" facs="tcp:31079:2"/>proceeded by vertue of their free Election and Deputation in the <hi>name power and au<g ref="char:EOLhyphen"/>thority</hi> of the <hi>Army</hi> to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> repreſent and propoſe ſeverall things, not only <hi>as Soldi<g ref="char:EOLhyphen"/>diers</hi> for the good <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Armys but as <hi>Commoners,</hi> for the peace, freedome, and liberty of the Kingdome, from time to time, agreed <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> coun<g ref="char:EOLhyphen"/>cell of the Army, and ſo is properly and truly the ſence, intend, and mind both of the head and body of the Army, truly undertaken and proſecuted by the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, legi<g ref="char:EOLhyphen"/>gitimate, naturall Power, and Right, of the Armie both as Soldiers, and Com<g ref="char:EOLhyphen"/>moners.</p>
+               <p>So that it is moſt evident and plaine, that the <hi>Soldier-Adjutators</hi> as well as the <hi>Offi<g ref="char:EOLhyphen"/>cer-Adjutators</hi> have an <hi>undoubted right</hi> in <hi>this counſell,</hi> betruſted and conveyed unto them by the Armie, even in as large a meaſure both as <hi>Soldiers</hi> and <hi>Commoners,</hi> as the Officers can plead it for themſelves; not to be informed, invaded or deſtroyed either by the General, Officer or Officers whatſoever untill ſuch <hi>ſatisfaction &amp; ſecurity</hi> in &amp; for thoſe things which have or ſhall be agreed <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by the ſaid elected Officers and Soldiers for the good of the Armie, the Parliament and Kingdome.</p>
+               <p>And this right can no more be taken from the <hi>Officer</hi> then from the <hi>Soldier,</hi> and from the <hi>Soldier</hi> no more then from the <hi>Officer,</hi>
+               </p>
+               <p n="2">2. One reaſon, power and authority (which may ſerve as a ſecond reaſon for the conti<g ref="char:EOLhyphen"/>nuance of the Solder) being for the orginal &amp; conſtitution of both, &amp; one reaſon power &amp; authority for the continuance and termination of both; that which pleads the conti<g ref="char:EOLhyphen"/>nuance or removall of the one, pleads the continuance or removall of the other therfore that Soldier which ſhall invade, infringe or deſtroy the right and power of the Officer, or that Officer which ſhall invade, infringe or deſtroy the right and power of the Soldier in the <hi>ſaid Counſell,</hi> is an enemie both to Officer and Soldier, an underminer, ſubverter and confounder of the ſaid <hi>ſolemn Ingagement</hi> for the Armie, Parliament and Kingdome, &amp; ſo undoubtedly an enemie unto all: whatſoever his deluded intention, &amp; ſuppoſalls may be, ſuch and no other are his ſaid actions, and ſo are the Authors and Actors therof to be adjudged and eſteemed, if it be lawfull and ſafe to judge the tree by its fruit. For he that ſhall plead for and endeavour the removall of the Soldier out of this Councell, and thereby ſhall accompliſh the ſame, may when he hath ſo done by the very ſame reaſon endeavour and accompliſh the removall of the Officers, both being grounded upon one bottome, and ſo totally diſſolve and conſummate this counſell of the Army, and utter<g ref="char:EOLhyphen"/>ly make ubide the Ingagement thereof, as alſo undoe all againe which hath thereby been done, to the utter ruine both of the Army, the Parliament and Kingdome, eſpe<g ref="char:EOLhyphen"/>cially of the honeſt and godly party therein. So that this power of conſultation and propoſall, as well in order to themſelves, and their reſpective Regiments, Troops and Companies, whom they preſent, and to the Parliament and Kingdome, <hi>as Commoners,</hi> as in order to themſelves and the Armie <hi>as Soldiers,</hi> being thus radicall and indiviſible in the Soldier til ſuch <hi>ſatisfaction &amp; ſecurity</hi> as aforeſaid, it may preventer elſe give an<g ref="char:EOLhyphen"/>ſwer to another objection, which is, that the election and function of the <hi>Soldier Adju<g ref="char:EOLhyphen"/>tators,</hi> was and is only for the Armie <hi>as Soldiers</hi> about the point of disbandment, In<g ref="char:EOLhyphen"/>dempnity, pay and the like; and further to diſprove this objection, and to render the matter voide of all exception, their continued practice, progreſſe and proceedings joyntly in this counſell, for conſultation, propoſall and concluſion of things for them<g ref="char:EOLhyphen"/>ſelves the Army and Kingdome as Commoners gives a ſufficient and publiqve teſti<g ref="char:EOLhyphen"/>mony to all men.</p>
+               <p n="3">3. The Body of the Army, by vertue of their owne proper Engagement, have no
+<pb n="2" facs="tcp:31079:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:31079:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:31079:4"/>power (in being to the ſaid Engagement for the good of the Army, Parliament and Kingdome) to diſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ull, repeale or deſtroy the <hi>ſaid Councell</hi> or Engagement, either in part or in whole <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſafety of the Army Parliament and Kingdome, according to what either hath beene, is, or ſhall be propoſed and agreed unto by the ſaid Councell of Officers and Soldiers, for by the generall, joynt and Solemne Agreement of the Ar<g ref="char:EOLhyphen"/>my, the body thereof hath firmly obliged and bound it ſelfe neither to terminate, nor diſſolve it ſelf or its Councell, nor ſuffer it ſelfe nor its Councell to be terminated, de<g ref="char:EOLhyphen"/>vided, or diſſolved <hi>till full accompliſhment and ſuch ſatisfaction and ſecurity</hi> as aforeſaid, according to the agreement, concluſions reſults and propoſals of the ſaid Councel both for the Army and Kingdom. And if ſuch ſatisfaction &amp; ſecurity as by the ſaid Counſell ſhall be agreed unto muſt firſt be, (as you have ingaged) then it may not, neither are you to divide or diſſolve before. If ſuch, firſt and by this counſell and not before, then this counſell is of equall duration with the Army, even to disbandment. For ſhould the Body of the Army or any part thereof recall or attempt to recall their ſaid <hi>Adjutators</hi> or <hi>Repreſentors</hi> either in part or in whole from their ſervice and function in the ſaid Councell, the Body or party in ſo doing would viſibly and palpably deſtroy and ſubvert the very eſſence and being of the ſaid <hi>Solemn Engagement;</hi> for only in order and Coun<g ref="char:EOLhyphen"/>cell is ſafety, and take away order and Councell, and ſafety muſt needs give place, and ruine ſucceed. Therfore, all that or of the Body of the Army a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e finaly bound (as they tender the good of the Army, the Parliament and Kingdom) faithfully and preciſely to preſerve, defend, protect &amp; continue the ſaid Honourable <hi>Solemn engagement</hi> and <hi>Coun<g ref="char:EOLhyphen"/>cell</hi> till the full accompliſhment, eſtabliſhment and ſecurity of all things for the good, ſafety and ſallary of the Army, the peace ſecurity and freedome of the Parliament and Kingdome, aſſented or agreed unto, or to be aſſented or agreed unto by the ſaid Coun<g ref="char:EOLhyphen"/>cell conjunctively of Officers and Soldiers.</p>
+               <p n="4">4. It is no true repreſentation of the Army where the free Elected Repreſentors of the Body are ſubſtracted and taken away.</p>
+               <p>Therefore, the Soldiers which are repreſentors of the ſeverall Regiments, troopes and Companies of the Army neither can nor may, in Being to the Repreſentation it ſelf be diſpowered, removed divided or diſolved, for in ſo doing the Repreſentation would ceaſe, and all would be tumbled into confuſion or irrigularity at leaſt.</p>
+               <p n="5">5. The Soldier is concerned in the ſafety of the Army both as Soldiers and Com<g ref="char:EOLhyphen"/>moners, and in the peace ſafety and freedome of the Parliament and Kingdome equal<g ref="char:EOLhyphen"/>ly with, &amp; as deeply even as the Generall Officers themſelves; &amp; therfore to be no more ejected then any of the Generall Officers whatſoever out of this Councell, without ap<g ref="char:EOLhyphen"/>parant violation of their Right, and hazard of their ſafety both as Soldiers and Com<g ref="char:EOLhyphen"/>moners.</p>
+               <p n="6">6. In caſe the Generall Officers ſhould ſuppreſſe, make void and diſolve the other Offi<g ref="char:EOLhyphen"/>cer &amp; Soldier adjutators, and proceed of themſelves in their ſingle Capacity they could nomore be termed or accounted this foreſaid <hi>Councell of the Army</hi> then the leg or arme of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> without the reſt of his members can be termed or accounted the man: neither can that which is but in part be a repreſentor of the whole.</p>
+               <p>And ſo they would become only <hi>Repreſentors of themſelves</hi> not of the <hi>Body of the Army,</hi> and their actions, propoſals and deſires not be the Actions propoſals and de<g ref="char:EOLhyphen"/>ſires of the Army but of themſelves.</p>
+               <p n="7">7. Neither Generall Officers nor other Officers ever had or can have a generall Monopolie of all juſt Councell and wiſdom, but as ever there hath, ſo ſtill in the mul<g ref="char:EOLhyphen"/>titude of councellers there is ſafety and wiſedome, and wiſedome as the wiſe man ſaith Eccle. 7.21.) ſhall ſtreng then the wiſe man more then ten mighty Princes that are in the Gitty.</p>
+               <pb n="5" facs="tcp:31079:4"/>
+               <p n="8">8. A Millitary Commiſſion doth not conferre wiſedome to the Of<g ref="char:EOLhyphen"/>ficer, but it is properly and purely the gift of God, diſtributed accor<g ref="char:EOLhyphen"/>ding to his good pleaſure: Therefore wiſedome in their Councell, is as probably to be expected from the Soldier, as well as from the Officer, and ſo as much ground to continue the one as the other.</p>
+               <p n="9">9. It is againſt the juſt Nature, and being of any free Councell for any party thereof to uſurp over the reſt in any wiſe, or to impropriate or incroach to themſelves, the whole power into their hands, to the diſpoſſeſſion or diſplacing of others.</p>
+               <p n="10">10. It tendeth to the perverſion of the Engagement of the Army from generall ſafety and peace to the private intereſts, factious and ſi<g ref="char:EOLhyphen"/>niſter deſignes of ſome ſew.</p>
+               <p n="11">11. The Soldier was not only appearing and active in the founda<g ref="char:EOLhyphen"/>tion, proſecution and ſettlement of the ſaid ſolemn Engagement, when few or none of the Officers either durſt not, or would not, ingage or be ſeene therein, till the worke was even fitted to their hands.</p>
+               <p>Therefore, not now to be diſpowred by the Army, or in reaſon, juſtice or honour to the equity of the ſaid ſolemne Ingagement, to be ſlighted or diſeſteemed by the Officer; but by all honeſt and juſt men to be eſteemed inſtruments, to be continued till the accompliſhment and perfection of the worke.</p>
+               <p n="12">12. Their aſſiſtance, agitation, and counſell hath hitherto been ſuc<g ref="char:EOLhyphen"/>ceſſefull, faithfull, wholeſome and conducent to the good and ſafety of the Army, proſperous, judicious and upright for the peace, proſ<g ref="char:EOLhyphen"/>peritie, and ſettlement of the Kingdome, honour of the King, freedom of Parliament and people.</p>
+               <p>Therefore, there is no reaſon for their diſſolution before ſatisfaction and ſecurity as aforeſaid, till they have committed matter of crime worthy thereof.</p>
+               <p n="13">13. Such as ſhall ſo attempt their diſſolution before any juſt deſert or reaſon for the ſame, and contrary to the Ingagement it ſelfe, may juſtly be ſuſpected of ſome evill intent to their perſons, or to the In<g ref="char:EOLhyphen"/>gagement it ſelfe: or elſe why ſhould their wholeſome advice be diſpi<g ref="char:EOLhyphen"/>ſed, or themſelves without all deſert be caſt out of the Counſell? For who knowes, after they are ſo ejected and diſpoſſeſſed of all power that through the change of times, and things co-operating with natu<g ref="char:EOLhyphen"/>rall corruption and vanity too ſubject to places of command and profit, thoſe Soldiers who with great wiſedome, hazzard and difficulty, be<g ref="char:EOLhyphen"/>gun,
+<pb n="6" facs="tcp:31079:5"/>and hitherto with prudence and fidelity, proceeded in the car<g ref="char:EOLhyphen"/>riage on of the worke, may be caſt upon the pikes of diſtruction, and ſo left to the mercy of their enemies.</p>
+               <p>Therefore, no Officer or Soldier that is honeſt and wiſe, and ſimply and faithfully intends and indeavours the good, ſafety and preſervati<g ref="char:EOLhyphen"/>on of the Adjutators, the Army and Kingdome, will not in any wiſe except againſt <hi>making ſure</hi> the <hi>ſafety</hi> of the <hi>Adjutators,</hi> whether Offi<g ref="char:EOLhyphen"/>cer or Soldier. And all the world knowes, that there is more probabil<g ref="char:EOLhyphen"/>lity and certainty of their ſafety; while they keep the power or ſtaffe in their own hands, till all things be firmly ſetled and ſecured for their ſafety and peace, then when they are diſpowred, and the ſtaffe in the hands of another before the ſaid covenanted ſatisfaction and ſecurity: And who knowes what a day may bring forth? therefore it is good to make ſure of the worſt.</p>
+               <p n="14">14. The beſt pretence may be ſuſpected, but where no manner of good is or can be pretended or propoſed, there evill of neceſſity muſt be con<g ref="char:EOLhyphen"/>cluded; but there is no manner of good to the Armie, to the Adjuta<g ref="char:EOLhyphen"/>tors, or to the Kingdome pretended, or can be pretended or propoſed for the diſſolution of thoſe faithfull Adjutators. For what good can be intended to the Army, Adjutators, or their ſolemn Engagement, by impairing, diſtroying and diſmembring the lively uſefull members of the body of this Counſell, Therefore <hi>evill</hi> muſt needs be intended and concluded, in the deſigne; and from whence it comes, I leave that to the judgement of the dilligent and wiſe obſervator.</p>
+               <p n="15">15. It is a great diſparagement and diſhonour to thoſe Adjutators that now after the heat of the day, and their toyleſome and faithfull endurance thereof, they ſhould not be eſteemed as worthy to continue and helpe to carrie on the worke to a period, as well as to undertake and begin, or as ſuch as at the beginning thereof either durſt not or would not appeare in the undertaking, countenance, or management of the worke.</p>
+               <p n="16">16. The Soldiers are more knowing of the mind of their ſeverall Regiments, Troops and Companies, then the general Officers proba<g ref="char:EOLhyphen"/>bly can be; for they are more converſant, free and familiar one with another, then with their head Officers, and can unto them (as unto their Peers and Equalls) more freely communicate their minds, and deliver the ſence of the Countries gathered from their ſeverall quarters all ever the Kingdome. So that no ſort of people can be more experi<g ref="char:EOLhyphen"/>mentally
+<pb n="7" facs="tcp:31079:5"/>knowing of the ſeverall oppreſſions, grievances and neceſſi<g ref="char:EOLhyphen"/>ties of the people in generall then themſelves.</p>
+               <p>Therefore there is as little, if not leſſe reaſon to diſſolve or devide the Soldier from this Counſell, as the Officer therefrom.</p>
+               <p n="17">17. It is a limitation of the wiſedome of the Armie, which God in a wonderfull manner hath diſperſced and conveyed through the Body thereof; yea, an ablolute <hi>ſtoppage</hi> to the inlets and influence thereof up<g ref="char:EOLhyphen"/>on its Counſells; For the Adjutators of the ſeverall Regiments, Troops, and Companies, are as the <hi>Cunduit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pipes</hi> from the ſeverall parts of the body of the Army, or as meet inſtruments at all times and occaſions, at all ſtraights and neceſſities for communication and conveyance of the wiſedome thereof, for the ſafety of the Armie, the Parliament and Kingdome: And on the contrary, a contrary effect muſt be concluded: if the whole body of the Army were an eye, where were the hearing? if the whole were hearing, where were the ſmelling? but now in their wiſe and regular diſpoſall, they are many members, yet but one body: And the eye cannot ſay unto the hand, I have no need of thee, nor a<g ref="char:EOLhyphen"/>gaine the head to the feet, I have no need of you: Nay, much more thoſe Members of the body which ſeeme to be more feeble are neceſſary.</p>
+               <p>Therefore, I hope it will be the induſtry of every wiſe and judicious perſon that minds the ſafety of that body, and the prevention of Sciſme, imperfection or lameneſſe therein, to preſerve it intire and ſafe in all its members accordingly, as wherewith all it hath pleaſed God to indow it.</p>
+               <p n="18">18. The Diſſolution of the Adjutators of the ſeverall Regiments, Troops and Companies, will neceſſitate and reduce the Armie to a blind ignorant and implicite faith, even in that worke wherein their very lives and liberties doth conſiſt, and which hath been begun, and hither<g ref="char:EOLhyphen"/>to continued, and muſt be continued in the name of the Armie: which kind of blind courſe in ſuch a matter wherein moſt light is required, will to the knowing and judicious perſons of the Armie be ſo offenſive and burthenſome and ſo fill them with feares and jealouſies over thoſe which lead them hood wink'd, that they will never be able to beare it, neither indeed ought they to beare it, the which will be ſo extreamly dangerous to the unity of the body, that nothing but diſcord, heart-burnings, repinings, diſtraction and mutiny may juſtly be expected thereby: For perſons who have their ſight, and injoy the light, can<g ref="char:EOLhyphen"/>not
+<pb n="8" facs="tcp:31079:6" rendition="simple:additions"/>endure to be led as if they were blind over hedge and ditch at the pleaſure of their leader, or to be made a noſe of wax, or hurried hither or thither to this or that; they know not whether or to what, as they muſt needs be if thoſe their meet inſtruments of mutuall communicati<g ref="char:EOLhyphen"/>on of the mind of the one and proceedings of the other be taken away.</p>
+               <p>Laſtly, All that I ſhall ſay to you of the body of the Armie concer<g ref="char:EOLhyphen"/>ning this new enterprize of recalling and ſuppreſſing the Adjutators is this, Let reaſon goe before every enterprize, and counſell before every action. <hi>Eccleſ.</hi> 37.16. And ſo I ſhall referre my reaſons and advice to be pondered before you proceed to the action, and remaine.</p>
+            </div>
+            <closer>
+               <signed>Your Cordiall friend and ſervant <hi>Richard Overton.</hi>
+               </signed>
+               <dateline>Newgate <date>Auguſt 13. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
